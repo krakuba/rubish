@@ -1,0 +1,8 @@
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\bin\Debug\AnotherPeselValidatorTests.dll
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\bin\Debug\AnotherPeselValidatorTests.pdb
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\bin\Debug\AnotherPeselValidator.dll
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\bin\Debug\AnotherPeselValidator.pdb
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\obj\Debug\AnotherPeselValidatorTests.csprojResolveAssemblyReference.cache
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\obj\Debug\AnotherPeselValidatorTests.dll
+C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidatorTests\obj\Debug\AnotherPeselValidatorTests.pdb

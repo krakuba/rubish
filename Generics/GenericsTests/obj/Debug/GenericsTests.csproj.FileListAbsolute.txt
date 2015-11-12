@@ -1,0 +1,8 @@
+C:\PROJECTS\C#\Generics\GenericsTests\bin\Debug\GenericsTests.dll
+C:\PROJECTS\C#\Generics\GenericsTests\bin\Debug\GenericsTests.pdb
+C:\PROJECTS\C#\Generics\GenericsTests\bin\Debug\Generics.dll
+C:\PROJECTS\C#\Generics\GenericsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\PROJECTS\C#\Generics\GenericsTests\bin\Debug\Generics.pdb
+C:\PROJECTS\C#\Generics\GenericsTests\obj\Debug\GenericsTests.csprojResolveAssemblyReference.cache
+C:\PROJECTS\C#\Generics\GenericsTests\obj\Debug\GenericsTests.dll
+C:\PROJECTS\C#\Generics\GenericsTests\obj\Debug\GenericsTests.pdb

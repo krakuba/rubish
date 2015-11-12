@@ -1,0 +1,4 @@
+C:\PROJECTS\C#\Generics\Generics\bin\Debug\Generics.dll
+C:\PROJECTS\C#\Generics\Generics\bin\Debug\Generics.pdb
+C:\PROJECTS\C#\Generics\Generics\obj\Debug\Generics.dll
+C:\PROJECTS\C#\Generics\Generics\obj\Debug\Generics.pdb
