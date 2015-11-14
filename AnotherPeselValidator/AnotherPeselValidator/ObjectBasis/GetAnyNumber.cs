@@ -41,9 +41,6 @@ namespace AnotherPeselValidator.ObjectBasis
             return Convert.ToInt32(peselString.Substring(startingIndex, lenghtIndex));
         }
 
-        public static int GetAnyDigitFromPesel(string p, int startingIndex, int lenghtIndex)
-        {
-            return Convert.ToInt32(p.Substring(startingIndex, lenghtIndex));
-        }
+        public static int GetAnyDigitFromPesel(string p, int startingIndex, int lenghtIndex) => Convert.ToInt32(p.Substring(startingIndex, lenghtIndex));
     }
 }

@@ -69,20 +69,21 @@ namespace AnotherPeselValidator
 
         }
 
-        public string GeneratingRestOfPeselNumbers()
+        public string GeneratingPeselNumbers()
         {
-            return DateOfBirth = DateOfBirth + rnd.Next(1, 100) + rnd.Next(0,
-                (GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 0, 1) +
-                 3 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 1, 1) +
-                 7 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 2, 1) +
-                 9 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 3, 1) +
-                 GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 4, 1) +
-                 3 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 5, 1) +
-                 7 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 6, 1) +
-                 9 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 7, 1) +
-                 GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 8, 1) +
-                 3 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 9, 1) % 10)
-                );
+            this.GeneratingDateOfBirth();
+            return DateOfBirth = DateOfBirth + rnd.Next(9, 100) + rnd.Next(9, 100); /* + rnd.Next(0,
+                GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 0, 1) +
+                3 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 1, 1) +
+                7 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 2, 1) +
+                9 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 3, 1) +
+                GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 4, 1) +
+                3 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 5, 1) +
+                7 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 6, 1) +
+                9 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 7, 1) +
+                GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 8, 1) +
+                3 * GetAnyNumber.GetAnyDigitFromPesel(DateOfBirth, 9, 1) % 10
+                );  */
 
         }
     }

@@ -22,7 +22,7 @@ namespace AnotherPeselValidator.ObjectBasis.Tests
             foreach (var pe in p1List)
             {
 
-                Debug.WriteLine(pe.GeneratingRestOfPeselNumbers());
+                Debug.WriteLine(pe.GeneratingPeselNumbers());
             }
         }
 

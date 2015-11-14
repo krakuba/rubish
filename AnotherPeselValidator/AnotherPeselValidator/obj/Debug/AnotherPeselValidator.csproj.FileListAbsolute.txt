@@ -2,3 +2,7 @@ C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidator\bin\Debug\AnotherPese
 C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidator\bin\Debug\AnotherPeselValidator.pdb
 C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidator\obj\Debug\AnotherPeselValidator.dll
 C:\PROJECTS\C#\AnotherPeselValidator\AnotherPeselValidator\obj\Debug\AnotherPeselValidator.pdb
+C:\Users\kraku_000\Documents\rubish\AnotherPeselValidator\AnotherPeselValidator\bin\Debug\AnotherPeselValidator.dll
+C:\Users\kraku_000\Documents\rubish\AnotherPeselValidator\AnotherPeselValidator\bin\Debug\AnotherPeselValidator.pdb
+C:\Users\kraku_000\Documents\rubish\AnotherPeselValidator\AnotherPeselValidator\obj\Debug\AnotherPeselValidator.dll
+C:\Users\kraku_000\Documents\rubish\AnotherPeselValidator\AnotherPeselValidator\obj\Debug\AnotherPeselValidator.pdb

@@ -6,7 +6,7 @@ namespace AnotherPeselValidator.PeselGenerator.Interfaces
     {
 
         string GeneratingDateOfBirth();
-        string GeneratingRestOfPeselNumbers();
+        string GeneratingPeselNumbers();
 
     }
 }
