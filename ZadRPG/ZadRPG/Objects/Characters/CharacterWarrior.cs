@@ -24,5 +24,13 @@ namespace ZadRPG.Objects.Characters
         }
 
 
+        public int NormalAttack()
+        {
+            if (VitalityPoints >= 5)
+            {
+                return StrengthPoints*VitalityPoints/100;
+            }
+                return StrengthPoints;
+        }
     }
 }

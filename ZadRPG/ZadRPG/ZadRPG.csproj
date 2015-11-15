@@ -42,8 +42,10 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Interfaces\ICharacter.cs" />
+    <Compile Include="Interfaces\ISorcerer.cs" />
     <Compile Include="Interfaces\IWarrior.cs" />
     <Compile Include="Objects\Characters\AbstractCharacterClass.cs" />
+    <Compile Include="Objects\Characters\CharacterSorcerer.cs" />
     <Compile Include="Objects\Characters\CharacterWarrior.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
